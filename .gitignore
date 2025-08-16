@@ -1,0 +1,13 @@
+# Ignore generated backup archives
+*.tar.gz
+
+# macOS files
+.DS_Store
+
+# nano/vim temporary files
+*~
+*.swp
+*.swo
+
+# Logs
+*.log
